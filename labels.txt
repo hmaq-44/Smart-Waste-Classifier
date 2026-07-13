@@ -1,0 +1,3 @@
+0 Plastics
+1 Metal
+2 Paper
